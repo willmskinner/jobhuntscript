@@ -1,0 +1,13 @@
+sources:
+  - id: givewell-research
+    type: greenhouse_board
+    enabled: true
+    board: givewell
+    title_keywords: [research, researcher, scientist, "r&d"]
+
+  - id: yale-blavatnik
+    type: page_watch
+    enabled: true
+    url: "https://ventures.yale.edu/programs/the-blavatnik-fund-for-innovation-at-yale/blavatnik-fellowship"
+    extract_regex: 'Applications are (OPEN|CLOSED|open|closed)'
+    open_keywords: ["OPEN", "open"]

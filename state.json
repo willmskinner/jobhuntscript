@@ -1,0 +1,27 @@
+{
+  "sources": {
+    "givewell-research": {
+      "consecutive_failures": 0,
+      "last_error": null,
+      "seen_job_ids": [
+        "4253692008",
+        "4255140008",
+        "4924057008",
+        "4981257008",
+        "5133526008",
+        "5214767008",
+        "5215182008",
+        "5219962008",
+        "5219973008",
+        "5228750008",
+        "5228753008"
+      ]
+    },
+    "yale-blavatnik": {
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_snippet": "Applications are CLOSED"
+    }
+  },
+  "version": 1
+}
