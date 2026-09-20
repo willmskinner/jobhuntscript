@@ -18,7 +18,7 @@
       ]
     },
     "yale-blavatnik": {
-      "consecutive_failures": 51,
+      "consecutive_failures": 52,
       "last_error": "extract_regex 'Applications are (OPEN|CLOSED|open|closed)' did not match content for 'https://ventures.yale.edu/programs/the-blavatnik-fund-for-innovation-at-yale/blavatnik-fellowship'",
       "last_snippet": "Applications are CLOSED"
     }
